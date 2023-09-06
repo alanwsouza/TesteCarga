@@ -15,5 +15,5 @@
 
 ## Como executar a aplicação Jmeter
 1. Instale o Apache JMeter: Você pode baixar o JMeter em https://jmeter.apache.org/download_jmeter.cgi e seguir as instruções de instalação.
-2. Para executar o projeto vá até a pasta Bin, abra o arquivo "jmeter.bat", clique em File>Open e carregue o arquivo do projeto.
+2. Para executar o projeto vá até a pasta Bin, abra o arquivo "jmeter.bat", clique em File>Open e carregue o arquivo do projeto (HTTP Request Teste Alan.jmx).
 3. Com o projeto aberto clique em "Play".
